@@ -1,0 +1,15 @@
+C:\Users\papp.laszlo.levente\Desktop\Papp László Levente\2023-11-07\Henger OOP\Henger OOP\bin\Debug\net6.0\Henger OOP.exe
+C:\Users\papp.laszlo.levente\Desktop\Papp László Levente\2023-11-07\Henger OOP\Henger OOP\bin\Debug\net6.0\Henger OOP.deps.json
+C:\Users\papp.laszlo.levente\Desktop\Papp László Levente\2023-11-07\Henger OOP\Henger OOP\bin\Debug\net6.0\Henger OOP.runtimeconfig.json
+C:\Users\papp.laszlo.levente\Desktop\Papp László Levente\2023-11-07\Henger OOP\Henger OOP\bin\Debug\net6.0\Henger OOP.dll
+C:\Users\papp.laszlo.levente\Desktop\Papp László Levente\2023-11-07\Henger OOP\Henger OOP\bin\Debug\net6.0\Henger OOP.pdb
+C:\Users\papp.laszlo.levente\Desktop\Papp László Levente\2023-11-07\Henger OOP\Henger OOP\obj\Debug\net6.0\Henger OOP.csproj.AssemblyReference.cache
+C:\Users\papp.laszlo.levente\Desktop\Papp László Levente\2023-11-07\Henger OOP\Henger OOP\obj\Debug\net6.0\Henger OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\papp.laszlo.levente\Desktop\Papp László Levente\2023-11-07\Henger OOP\Henger OOP\obj\Debug\net6.0\Henger OOP.AssemblyInfoInputs.cache
+C:\Users\papp.laszlo.levente\Desktop\Papp László Levente\2023-11-07\Henger OOP\Henger OOP\obj\Debug\net6.0\Henger OOP.AssemblyInfo.cs
+C:\Users\papp.laszlo.levente\Desktop\Papp László Levente\2023-11-07\Henger OOP\Henger OOP\obj\Debug\net6.0\Henger OOP.csproj.CoreCompileInputs.cache
+C:\Users\papp.laszlo.levente\Desktop\Papp László Levente\2023-11-07\Henger OOP\Henger OOP\obj\Debug\net6.0\Henger OOP.dll
+C:\Users\papp.laszlo.levente\Desktop\Papp László Levente\2023-11-07\Henger OOP\Henger OOP\obj\Debug\net6.0\refint\Henger OOP.dll
+C:\Users\papp.laszlo.levente\Desktop\Papp László Levente\2023-11-07\Henger OOP\Henger OOP\obj\Debug\net6.0\Henger OOP.pdb
+C:\Users\papp.laszlo.levente\Desktop\Papp László Levente\2023-11-07\Henger OOP\Henger OOP\obj\Debug\net6.0\Henger OOP.genruntimeconfig.cache
+C:\Users\papp.laszlo.levente\Desktop\Papp László Levente\2023-11-07\Henger OOP\Henger OOP\obj\Debug\net6.0\ref\Henger OOP.dll
